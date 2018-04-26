@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\QuestObject.cs">
+    <Files>
+      <File FileName="Assets\Script\QuestQuestion.cs" Line="15" Column="3" />
+      <File FileName="Assets\Script\QuestManager.cs" Line="11" Column="29" />
+      <File FileName="Assets\Script\DialogueManager.cs" Line="35" Column="18" />
+      <File FileName="Assets\Script\QuestObject.cs" Line="19" Column="17" />
+      <File FileName="Assets\Script\QuestTrigger.cs" Line="46" Column="6" />
+      <File FileName="Assets\Script\QuestItem.cs" Line="14" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
